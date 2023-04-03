@@ -31,3 +31,30 @@ Is one step further from the class pattern where we leverage a class created to 
 Prevents our classes from creating more than one instance of the class
 
 ### 3.4 Factory Pattern - main6.js
+
+Creates a mechanism to create other objects
+
+### 3.5 Abstract Factory Pattern - main7.js
+
+Abstracts the factories and are able to create multiple factories, classes, etc.
+
+## 4. Structural Patterns
+
+Are focused on how to properly organize the structure of your code
+
+- Modules
+- Mixins
+- Facade
+- Flywight
+- Decorator
+- MVC, MVP and MVVM
+
+### 4.1 Module Pattern - main8.js
+
+Organizes the code in pure functions, so it is much easier to debug
+
+### 4.2 Mixins Pattern - main9.js
+Mix functions and instances of classes after they have been created.
+
+### 4.3 Facade Pattern - main10.js
+
